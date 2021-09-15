@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>LVin</title>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<link rel="shortcut icon" href="IMG/icon.ico" type="image/png">
+	<link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+
+	<!-- Заголовок -->
+	<header class="headerone">
+		<nav class="nav bd-grid">
+			<div>
+				<a href="#" class="nav__logo">LVin</a>
+			</div>
+
+			<div class="nav__menu" id="nav-menu">
+				<ul class="nav__list">
+					<li class="nav__items"><a href="#home" class="nav__links active">Главная</a></li>
+					<li class="nav__items"><a href="#featured" class="nav__links">Рекомендации</a></li>
+					<li class="nav__items"><a href="#new" class="nav__links">Новое</a></li>
+					<li class="nav__items"><a href="#subscribed" class="nav__links">Подписаться</a></li>	
+				</ul>
+			</div>
+
+			<div>
+				<i class="bx bx-cart-alt nav__toggle" ></i>
+				<i class="bx bx-menu nav__toggle" id="nav-toggle"></i>
+			</div>
+		</nav>
+	</header>
+
+	<main class="1-main">
+
+		<!-- Главная -->
+		<section class="home" id="home">
+			<div class="home__container bd-grid">
+				<div class="home__data">
+					<h1 class="home__title">НОВОЕ <br><span>ПОСТУПЛЕНИЕ</span></h1>
+					<a href="#featured" class="button">ПОСМОТРЕТЬ</a>
+				</div>
+
+				<img src="IMG/home.png" class="home__img">
+			</div>
+		</section>
+
+		<!-- Коллекция -->
+		<section class="collection section">
+			<div class="collection__container bd-grid">
+
+				<!-- Мужская коллекция одежды -->
+				<div class="collection__box">
+					<img src="IMG/ПальтоМ.png" class="collection__img">
+
+					<div class="collection__data">
+					<h2 class="collection__title"><span class="collection__subtitle">МУЖСКАЯ</span><br>КОЛЛЕКЦИЯ</h2>
+					<a href="https://www2.hm.com/ru_ru/muzhchiny.html" class="collection__view">ПОСМОТРЕТЬ</a>
+					</div>
+				</div>
+
+				<!-- Женская коллекция одежды -->
+				<div class="collection__box">
+					<div class="collection__data">
+					<h2 class="collection__title"><span class="collection__subtitle">ЖЕНСКАЯ</span><br>КОЛЛЕКЦИЯ</h2>
+					<a href="https://www2.hm.com/ru_ru/zhenshchiny.html" class="collection__view">ПОСМОТРЕТЬ</a>
+					</div>
+
+					<img src="IMG/ПальтоЖ.png" class="collection__img">
+				</div>
+			</div>
+		</section>
+
+		<!-- Рекомендации -->
+		<section class="featured section" id="featured">
+			<h2 class="section-title">РЕКОМЕНДУЕМ</h2>
+			<a href="https://www2.hm.com/ru_ru/muzhchiny/vybrat-kategoriyu/aksessuary.html" class="section-all">Посмотреть все</a>
+
+			<!-- Аксессуар1 -->
+			<div class="featured__container bd-grid">
+				<div class="featured__product">
+					<div class="featured__box">
+						<div class="featured__new">Новое</div>
+						<a href="https://www2.hm.com/ru_ru/productpage.0557048001.html"><img src="IMG/Акссесуар1.jpeg" class="featured_img"></a>
+					</div>
+
+					<div class="featured__data">
+						<h3 class="featured_name">Комплект, 3 предмета</h3>
+						<span class="featured__preci">999 грн.</span>
+					</div>
+				</div>
+
+				<!-- Аксессуар2 -->
+				<div class="featured__product">
+					<div class="featured__box">
+						<div class="featured__new">Новое</div>
+						<a href="https://www2.hm.com/ru_ru/productpage.0337991001.html"><img src="IMG/Акссесуар2.jpeg" class="featured_img"></a>
+					</div>
+
+					<div class="featured__data">
+						<h3 class="featured_name">Кожаный ремень</h3>
+						<span class="featured__preci">1 199 грн.</span>
+					</div>
+				</div>
+
+				<!-- Аксессуар3 -->
+				<div class="featured__product">
+					<div class="featured__box">
+						<div class="featured__new">Новое</div>
+						<a href="https://www2.hm.com/ru_ru/productpage.0721176006.html"><img src="IMG/Акссесуар3.jpeg" class="featured_img"></a>
+					</div>
+
+					<div class="featured__data">
+						<h3 class="featured_name">Кожаный несессер</h3>
+						<span class="featured__preci">2 299 грн.</span>
+					</div>
+				</div>
+
+				<!-- Аксессуар4 -->
+				<div class="featured__product">
+					<div class="featured__box">
+						<div class="featured__new">Новое</div>
+						<a href="https://www2.hm.com/ru_ru/productpage.0650534002.html"><img src="IMG/Акссесуар4.jpeg" class="featured_img"></a>
+					</div>
+
+					<div class="featured__data">
+						<h3 class="featured_name">Дорожная сумка</h3>
+						<span class="featured__preci">2 999 грн.</span>
+					</div>
+				</div>
+			</div>	
+		</section>
+
+		<!-- Скидки -->
+		<section class="offer section">
+			<div class="offer__bg">
+				<div class="offer__data">
+					<h2 class="offer__title">Специальное предложение</h2>
+					<p class="offer__discription">Специальное дисконтное предложение на все покупки в этой недели.</p>
+
+					<a href="#" class="button">ПОЛУЧИТЬ</a>
+				</div>
+			</div>
+		</section>
+
+		<!-- Новое поступление -->
+		<section class="new section" id="new">
+			<h2 class="section-title">НОВОЕ ПОСТУПЛЕНИЕ</h2>
+			<a href="#" class="section-all">Посмотреть все</a>
+
+			<div class="new__container bd-grid">
+				<div class="new__box">
+					<img src="IMG/рюкзак.jpg" class="new__img">
+
+					<div class="new__link">
+						<a href="#" class="button">ПОСМОТРЕТЬ ТОВАР</a>
+					</div>
+				</div>
+
+				<div class="new__box">
+					<img src="IMG/сумка.jpg" class="new__img">
+
+					<div class="new__link">
+						<a href="#" class="button">ПОСМОТРЕТЬ ТОВАР</a>
+					</div>
+				</div>
+
+				<div class="new__box">
+					<img src="IMG/шарфик.jpg" class="new__img">
+
+					<div class="new__link">
+						<a href="#" class="button">ПОСМОТРЕТЬ ТОВАР</a>
+					</div>
+				</div>
+
+				<div class="new__box">
+					<img src="IMG/часы.jpg" class="new__img">
+
+					<div class="new__link">
+						<a href="#" class="button">ПОСМОТРЕТЬ ТОВАР</a>
+					</div>
+				</div>
+
+				<div class="new__box">
+					<img src="IMG/шапочка.jpg" class="new__img">
+
+					<div class="new__link">
+						<a href="#" class="button">ПОСМОТРЕТЬ ТОВАР</a>
+					</div>
+				</div>
+
+				<div class="new__box">
+					<img src="IMG/джемпер.jpg" class="new__img">
+
+					<div class="new__link">
+						<a href="#" class="button">ПОСМОТРЕТЬ ТОВАР</a>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Рассылка -->
+		<section class="newsletter section" id="subscribed">
+			<div class="newsletter__container bd-grid">
+				<div class="newsletter__subscribe">
+					<h2 class="section-title">Рассылка</h2>
+					<p class="newsletter__description">Подпишитесь на нашу рассылку, чтобы быть в курсе о новых поступлениях и скидках.</p>
+
+					<form action="" class="newsletter__form">
+						<input type="email" name="email" placeholder="Введите свой email адрес" class="newsletter__input">
+						<a href="#" class="button">Подписаться</a>
+					</form>
+				</div>
+			</div>
+		</section>
+
+		<!-- Спонсоры -->
+		<section class="sponsors section">
+			<div class="sponsors__container bd-grid">
+				<div class="sponsors__logo">
+					<img src="IMG/logo1.png">
+				</div>
+
+				<div class="sponsors__logo">
+					<img src="IMG/logo2.png">
+				</div>
+
+				<div class="sponsors__logo">
+					<img src="IMG/logo3.png">
+				</div>
+
+				<div class="sponsors__logo">
+					<img src="IMG/logo4.png">
+				</div>
+			</div>
+		</section>
+
+	</main>
+
+	<!-- Футер -->
+	<footer class="footer section">
+		<div class="footer__container bd-grid">
+			<div class="footer__box">
+				<h3 class="footer__title">LVin</h3>
+				<p class="footer__deal">Приложение доступно</p>
+				<a href="https://1001goroskop.ru/"><img src="IMG/footerstore1.png" class="footer__store"></a>
+				<a href="http://kakoysegodnyaprazdnik.ru/"><img src="IMG/footerstore2.png" class="footer__store"></a>
+			</div>
+
+			<div class="footer__box">
+				<h3 class="footer__title">Разделы</h3>
+				<ul>
+					<li><a href="#home" class="footer__link">Главная</a></li>
+					<li><a href="#featured" class="footer__link">Рекомендации</a></li>
+					<li><a href="#new" class="footer__link">Новое</a></li>
+					<li><a href="#subscribed" class="footer__link">Подписаться</a></li>
+				</ul>
+			</div>
+
+			<div class="footer__box">
+				<h3 class="footer__title">Подписывайтесь</h3>
+				<ul class="footer__follow">
+					<li><a href="http://funkot.ru/" class="footer__link"><i class="bx bxl-facebook-square"></i></a></li>
+					<li><a href="https://www.instagram.com/vnnk.ll" class="footer__link"><i class="bx bxl-instagram-alt"></i></a></li>
+					<li><a href="https://vk.com/vnnkll" class="footer__link"><i class='bx bxl-vk'></i></a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<p class="footer__copy">&#169; 2021 Все права защищены.<br>lilivin</p>
+	</footer>
+
+
+	<!-- Main JS, в основном все взято с интернета -->
+	<script type="text/javascript" src="JS/main.js"></script>
+</body>
+</html>
