@@ -98,9 +98,9 @@
 	<div class="cursor"></div>
 
 	<div class="shapes">
-		<div class="shape shape-1"></div>
-		<div class="shape shape-2"></div>
-		<div class="shape shape-3"></div>
+		<div data-depth="1" class="shape shape-1"></div>
+		<div data-depth="1.5" class="shape shape-2"></div>
+		<div data-depth="2" class="shape shape-3"></div>
 	</div>
 
 	<div class="content">
@@ -108,8 +108,10 @@
 	</div>
 
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js"></script>
-
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
 	<script type="text/javascript">
+		const shapes = document.querySelector('.shapes')
+		let parallaxInstance = new Parallax(shapes);
 		document.body.addEventListener("mousemove", (evt) => {
 			const mouseX = evt.clientX
 			const mouseY = evt.clientY
