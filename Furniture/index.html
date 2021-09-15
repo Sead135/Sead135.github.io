@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com"> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Вначале делаешь Хеадер, потом Футер и только после этого переходишь к основе -->
+    <div class="wrapper">
+        <header class="header">
+            <div class="container">
+                <div class="header__inner">
+                    <!-- По бему все классы в начале и он против вложенности-->
+                    <nav class="menu">
+                        <ul class="menu__list">
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" href="about.html">About</a>
+                            </li>
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" href="gallery.html">Gallery</a>
+                            </li>
+                        </ul>
+                    </nav>
+                    
+                    <a class="logo" href="index.html" >
+                        <img src="img/logo.png" alt="logo">
+                    </a>
+
+                    <nav class="menu">
+                        <ul class="menu__list">
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" href="blog.html">Blog</a>
+                            </li>
+                            <li class="menu__list-item">
+                                <a class="menu__list-link" href="contact.html">Contact</a>
+                            </li>
+                        </ul>
+                    </nav>
+
+                    <button class="header__btn">
+                        <img src="img/icon_menu.svg" alt="icon_menu">
+                    </button>
+
+                    <div class="rightside-menu rightside-menu--close">
+
+                        <button class="rightside-menu__close">
+                            <img src="img/Path.svg" alt="X">
+                        </button>
+
+                        <div class="rightside-menu__content">
+                            <a class="rightside-menu__logo" href="#">
+                                <img src="img/logo_big.png" alt="big logo">
+                            </a>
+                            <h4 class="rightside-menu__title">
+                                Furniture for life
+                            </h4>
+                            <p class="rightside-menu__text">
+                                Sustainable hot chicken skateboard, dreamcatcher meggings actually squid. Slow-carb everyday carry +1 art party microdosing, put a bird on it brooklyn
+                            </p>
+                            <img class="rightside-menu__img" src="img/content/Rectangle.jpg" alt="Furniture for life">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+
+        <main class="main">
+            <!-- Слайдер -->
+            <section class="top">
+                <div class="top__inner">
+                    <div class="top__slider">
+                        <!-- Слайд 1 -->
+                        <div class="top__slider-item">
+                            <img class="top__slider-img" src="img/content/slider.png" alt="img">
+                        <div class="top__slider-info">
+                                <h2 class="top__slider-title">
+                                    Furniture collection
+                                </h2>
+                                <p class="top__slider-text">
+                                    Deep v you probably haven't heard of them banh mi synth actually affogato. Aesthetic lyft ethical drinking vinegar austint
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Слайд 2 -->
+                        <div class="top__slider-item">
+                            <img class="top__slider-img" src="img/content/slider.png" alt="img">
+                            <div class="top__slider-info">
+                                <h2 class="top__slider-title">
+                                    Furniture collection
+                                </h2>
+                                <p class="top__slider-text">
+                                    Deep v you probably haven't heard of them banh mi synth actually affogato. Aesthetic lyft ethical drinking vinegar austint
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Слайд 3 -->
+                        <div class="top__slider-item">
+                            <img class="top__slider-img" src="img/content/slider.png" alt="img">
+                            <div class="top__slider-info">
+                                <h2 class="top__slider-title">
+                                    Furniture collection
+                                </h2>
+                                <p class="top__slider-text">
+                                    Deep v you probably haven't heard of them banh mi synth actually affogato. Aesthetic lyft ethical drinking vinegar austint
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Коллекции -->
+            <section class="new-collection">
+                <div class="container-fluid">
+                    <h3 class="new-collection__title">Furniture new collection</h3>
+                    <p class="new-collection__text">Deep v you probably haven't heard of them banh mi synth actually affogato. Aesthetic lyft ethical drinking vinegar austint</p>
+                    <div class="collection">
+                        <!-- Коллекция 1 -->
+                        <a class="collection__item" href="#">
+                            <img class="collection__img" src="img/content/collection/collection1.jpg" alt="">
+                            <div class="collection__info">
+                                <h6 class="collection__info-title">Truffaut literally trust</h6>
+                                <p class="collection__info-text">Living room furntiture | Chair</p>
+                            </div>
+                        </a>
+                        <!-- Коллекция 2 -->
+                        <a class="collection__item" href="#">
+                            <img class="collection__img" src="img/content/collection/collection2.jpg" alt="">
+                            <div class="collection__info">
+                                <h6 class="collection__info-title">Truffaut literally trust</h6>
+                                <p class="collection__info-text">Living room furntiture | Chair</p>
+                            </div>
+                        </a>
+                        <!-- Коллекция 3 -->
+                        <a class="collection__item" href="#">
+                            <img class="collection__img" src="img/content/collection/collection3.jpg" alt="">
+                            <div class="collection__info">
+                                <h6 class="collection__info-title">Truffaut literally trust</h6>
+                                <p class="collection__info-text">Living room furntiture | Chair</p>
+                            </div>
+                        </a>
+                        <!-- Коллекция 4 -->
+                        <a class="collection__item" href="#">
+                            <img class="collection__img" src="img/content/collection/collection4.jpg" alt="">
+                            <div class="collection__info">
+                                <h6 class="collection__info-title">Truffaut literally trust</h6>
+                                <p class="collection__info-text">Living room furntiture | Chair</p>
+                            </div>
+                        </a>
+                        <!-- Коллекция 5 -->
+                        <a class="collection__item" href="#">
+                            <img class="collection__img" src="img/content/collection/collection5.jpg" alt="">
+                            <div class="collection__info">
+                                <h6 class="collection__info-title">Truffaut literally trust</h6>
+                                <p class="collection__info-text">Living room furntiture | Chair</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+            <!-- Декор -->
+            <section class="decor">
+                <div class="container" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0">
+                    <h2 class="decor__title">Aesthetic <br> ethical drinking</h2>
+                    <p class="decor__text">Deep v you probably haven't heard of them banh mi synth actually affogato. Artlyft ethical the one drinking vinegar austint</p>
+                </div>
+            </section>
+            <!-- Дорога -->
+            <section class="works-path">
+                <div class="container">
+                    <h3 class="works-path__title">How it works</h3>
+                    <div class="works-path__items">
+                        <!-- Верхний блок дороги -->
+                        <div class="works-path__items-box">
+                            <!-- Блок 1 -->
+                            <div class="works-path__item works-path__item--consultation">
+                                <img class="works-path__item-img" src="img/icon1.svg">
+                                <h6 class="works-path__item-title">Designer Consultation</h6>
+                                <p class="works-path__item-text">Kinfolk scenester authentic craft beer truffaut irony intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche</p>
+                            </div>
+                            <!-- Блок 3 -->
+                            <div class="works-path__item works-path__item--production">
+                                <img class="works-path__item-img" src="img/icon3.svg">
+                                <h6 class="works-path__item-title">Production</h6>
+                                <p class="works-path__item-text">Everyday carry actually neutra authentic kogi shabby chic</p>
+                            </div>
+                            <!-- <div class="works-pat__line"></div> -->
+                        </div>
+                        <!-- Блок 2 -->
+                        <div class="works-path__item works-path__item--measurements">
+                            <img class="works-path__item-img" src="img/icon2.svg">
+                            <h6 class="works-path__item-title">Measurements</h6>
+                            <p class="works-path__item-text">Intelligentsia YOLO lomo bushwick coloring book. Semiotics man bun venmo viral cliche</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Галерея -->
+            <div class="gallery">
+                <div class="container-fluid">
+                    <div class="gallery__buttons">
+                        <!-- Кнопки галереи -->
+                        <button class="gallery__btn" data-filter=".bedroom">Bedroom furniture</button>
+                        <button class="gallery__btn" data-filter=".living">Living room furniture</button>
+                        <button class="gallery__btn" data-filter=".office">Office furniture</button>
+                        <button class="gallery__btn" data-filter=".dining">Dining room futniture</button>
+                        <button class="gallery__btn" data-filter=".chair">Chair</button>
+                    </div>
+                    <div class="gallery__inner">
+
+                        <div class="gallery__items mix bedroom">
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/1.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/2.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/3.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/4.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/5.jpg" alt="img">
+                            </a>
+                        </div>
+
+                        <div class="gallery__items mix living">
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/1.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/2.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/3.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/4.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/5.jpg" alt="img">
+                            </a>
+                        </div>
+
+                        <div class="gallery__items mix office">
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/1.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/2.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/3.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/4.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/5.jpg" alt="img">
+                            </a>
+                        </div>
+
+                        <div class="gallery__items mix dining">
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/1.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/2.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/3.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/4.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/5.jpg" alt="img">
+                            </a>
+                        </div>
+
+                        <div class="gallery__items mix chair">
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/1.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/2.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/3.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/4.jpg" alt="img">
+                            </a>
+                            <a class="gallery__item" href="#" >
+                                <img src="img/gallery/5.jpg" alt="img">
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Мини Блог -->
+            <section class="blog-box">
+                <div class="container">
+                    <h3 class="blog-box__title">More inspiration ideas in our blog</h3>
+                    <div class="blog-box__items">
+                        <!-- Статья 1 -->
+                        <div class="blog-box__item">
+                            <a class="blog-box__img-link" href="#"><img class="blog-box__img" src="img/blog/1.jpg" alt=""></a>
+                            <div class="blog-box__links">
+                                <!-- Дата публикации статьи -->
+                                <span class="blog-box__date">March 12, 2020</span>
+                                <!-- Автор статьи -->
+                                <a class="blog-box__autor" href="#">by Ann Summers</a>
+                                <!-- Тема статьи -->
+                                <a class="blog-box__theme" href="#">Inrerior</a>
+                            </div>
+                            <!-- Заголовок статьи -->
+                            <a class="blog-box__title-link" href="#">
+                                <h4 class="blog-box__item-title">Listicle actually selvage activated charcoal for the drinking vinegar </h4>
+                            </a>
+                        </div>
+                        
+                        <!-- Статья 2 -->
+                        <div class="blog-box__item">
+                            <a class="blog-box__img-link" href="#"><img class="blog-box__img" src="img/blog/2.jpg" alt=""></a>
+                            <div class="blog-box__links">
+                                <!-- Дата публикации статьи -->
+                                <span class="blog-box__date">September 28,2020</span>
+                                <!-- Автор статьи -->
+                                <a class="blog-box__autor" href="#">by Finnagan Morningstar</a>
+                                <!-- Тема статьи -->
+                                <a class="blog-box__theme" href="#">Dining room interior</a>
+                            </div>
+                            <!-- Заголовок статьи -->
+                            <a class="blog-box__title-link" href="#">
+                                <h4 class="blog-box__item-title">Red selfies edison bulb four dollar toast humblebrag</h4>
+                            </a>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            </section>
+        
+        </main>
+
+        <footer class="footer">
+            <div class="footer__content">
+                <div class="container">
+                    <div class="footer__inner">
+
+                        <div class="footer__info">
+                            <h6 class="footer__info-title">Contact Us</h6>
+                            <p class="footer__info-text">Keffiyeh poutine etsy, paleo cray put a bird on it microdosing schlitz you probably occupy</p>
+                            <a class="info-email" href="mailto:ouremailaddress@email.com">ouremailaddress@email.com</a>
+                            <form action="#" class="footer__form">
+                                <input class="footer__form-input" type="email" placeholder="Subscribe by email">
+                                <button class="footer__form-btn" type="submit">Send</button>
+                            </form>
+                        </div>
+
+                        <ul class="footer__social-list">
+                            <li class="footer__social-item"><a class="footer__social-link footer__social-link--facebook" href="#">Facebook</a></li>
+                            <li class="footer__social-item"><a class="footer__social-link footer__social-link--instagram" href="#">Instagram</a></li>
+                            <li class="footer__social-item"><a class="footer__social-link footer__social-link--pinterest" href="#">Pinterest</a></li>
+                            <li class="footer__social-item"><a class="footer__social-link footer__social-link--whatsapp" href="#">WhatsApp</a></li>
+                            <li class="footer__social-item"><a class="footer__social-link footer__social-link--youtube" href="#">Youtube</a></li>
+                        </ul>
+
+                        <nav class="footer__menu">
+                            <ul class="footer__menu-list">
+                                <li class="footer__menu-item"><a class="footer__menu-link" href="#">Delivery</a></li>
+                                <li class="footer__menu-item"><a class="footer__menu-link" href="#">FAQ</a></li>
+                                <li class="footer__menu-item"><a class="footer__menu-link" href="#">Help</a></li>
+                                <li class="footer__menu-item"><a class="footer__menu-link" href="#">More About Us</a></li>
+                            </ul>
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+            <div class="footer__copy">
+                <p>674 Gonzales Drive.   Washington, PA 15301</p>
+            </div>
+        </footer>
+    </div>
+    <link rel="stylesheet" href="css/style.min.css">
+    <script src="js/main.min.js"></script>
+</body>
+</html>
