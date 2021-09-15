@@ -7,6 +7,7 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
+	<link rel="icon" type="image/x-icon" href="favicon.ico">
 	<style type="text/css">
 		body {
 			font-family: 'Montserrat', sans-serif;
@@ -16,8 +17,8 @@
 			overflow: hidden;
 		}
 		.shapes {
-			width: 100vw;
-			height: 100vh;
+			width: 100%;
+			height: 100%;
 			background-color: #2128bd;
 			overflow: hidden;
 		}
@@ -115,9 +116,9 @@
 			const shape2 = document.querySelector('.shape-2')
 			const shape3 = document.querySelector('.shape-3')
 			let parallaxInstance = new Parallax(shapes);
-			shape1.style.top = '100%'
-			shape2.style.top = '100%'
-			shape3.style.top = '100%'
+			shape1.style.top = '50%'
+			shape2.style.top = '50%'
+			shape3.style.top = '50%'
 			shape1.style.left = '50%'
 			shape2.style.left = '50%'
 			shape3.style.left = '50%'
