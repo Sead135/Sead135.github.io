@@ -16,8 +16,8 @@
 			overflow: hidden;
 		}
 		.shapes {
-			width: 100vw;
-			height: 100vh;
+			width: 100%;
+			height: 100%;
 			background-color: #2128bd;
 			overflow: hidden;
 		}
@@ -95,7 +95,6 @@
 	</style>
 </head>
 <body>
-	<div class="cursor"></div>
 
 	<div class="shapes">
 		<div data-depth="1" class="shape shape-1"></div>
@@ -110,23 +109,41 @@
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js"></script>
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
 	<script type="text/javascript">
-		const shapes = document.querySelector('.shapes')
-		let parallaxInstance = new Parallax(shapes);
-		document.body.addEventListener("mousemove", (evt) => {
-			const mouseX = evt.clientX
-			const mouseY = evt.clientY
+		if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+			const shapes = document.querySelector('.shapes')
+			const shape1 = document.querySelector('.shape-1')
+			const shape2 = document.querySelector('.shape-2')
+			const shape3 = document.querySelector('.shape-3')
+			let parallaxInstance = new Parallax(shapes);
+			shape1.style.top = '50%'
+			shape2.style.top = '50%'
+			shape3.style.top = '50%'
+			shape1.style.left = '50%'
+			shape2.style.left = '50%'
+			shape3.style.left = '50%'
+		}
+		else {
+			document.body.insertAdjacentHTML(
+				'afterbegin',
+				'<div class="cursor"></div>'
+				)
 
-			gsap.set(".cursor", {
-				x: mouseX,
-				y: mouseY
-			})
+			document.body.addEventListener("mousemove", (evt) => {
+				const mouseX = evt.clientX
+				const mouseY = evt.clientY
 
-			gsap.to(".shape", {
-				x: mouseX,
-				y: mouseY,
-				stagger: -0.1
+				gsap.set(".cursor", {
+					x: mouseX,
+					y: mouseY
+				})
+
+				gsap.to(".shape", {
+					x: mouseX,
+					y: mouseY,
+					stagger: -0.1
+				})
 			})
-		})
+		}
 	</script>
 </body>
 </html>
