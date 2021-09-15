@@ -15,7 +15,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: url('../IMG/фон.jpg');
+	background: url('../IMG/background.jpg');
 	background-size: cover;
 	border-radius: 0 0 10px 10px;
 }
@@ -256,7 +256,7 @@ section
 }
 .rate
 {
-	background: url('../IMG/фон_комментариев.jpg');
+	background: url('../IMG/back_comm.jpg');
 	background-size: cover;
 	border-radius: 10px 10px 0 0 ;
 }
@@ -324,7 +324,7 @@ section
 }
 .contact
 {
-	background: url('../IMG/фонпредложения.jpg');
+	background: url('../IMG/back_pre.jpg');
 	background-size: cover;
 	border-radius: 0 0 10px 10px;
 }
