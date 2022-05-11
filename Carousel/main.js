@@ -12,25 +12,46 @@ const prevContainer = document.querySelector(".carousel__prev");
 const widthCarousel = carousel.offsetWidth;
 const widthCarouselItems = carouselItems.offsetWidth;
 const widthOffset = widthCarouselItems - widthCarousel;
-const widthDiff = (widthOffset / carouselItem.length) * 2;
+const widthDiff = carouselItem[0].offsetWidth + 20;
 
-nextButton.addEventListener("click", () => {
-  carouselContainer.style.scrollBehavior = 'smooth'
-  carouselContainer.scrollLeft += widthDiff
-  carouselContainer.style.scrollBehavior = 'auto'
-});
+if (
+  /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+    navigator.userAgent
+  )
+) {
+  let x1 = null;
+  let x2 = null;
 
-prevButton.addEventListener("click", () => {
-  carouselContainer.style.scrollBehavior = 'smooth'
-  carouselContainer.scrollLeft -= widthDiff
-  carouselContainer.style.scrollBehavior = 'auto'
-});
+  const handleTouchStart = (e) => {
+    x1 = e.changedTouches[0].clientX
+  };
 
-carouselContainer.addEventListener("wheel", (e) => {
-  e.preventDefault();
-  carouselContainer.scrollLeft += e.deltaY;
-  carouselContainer.scrollLeft += e.deltaX;
-});
+  const handleTouchMove = (e) => {
+    x2 = e.changedTouches[0].clientX
+    carouselContainer.scrollLeft += (x1 - x2)/50;
+  };
+
+  carouselContainer.addEventListener("touchstart", handleTouchStart, false);
+  carouselContainer.addEventListener("touchmove", handleTouchMove, false);
+} else {
+  nextButton.addEventListener("click", () => {
+    carouselContainer.style.scrollBehavior = "smooth";
+    carouselContainer.scrollLeft += widthDiff;
+    carouselContainer.style.scrollBehavior = "auto";
+  });
+
+  prevButton.addEventListener("click", () => {
+    carouselContainer.style.scrollBehavior = "smooth";
+    carouselContainer.scrollLeft -= widthDiff;
+    carouselContainer.style.scrollBehavior = "auto";
+  });
+
+  carouselContainer.addEventListener("wheel", (e) => {
+    e.preventDefault();
+    carouselContainer.scrollLeft += e.deltaY;
+    carouselContainer.scrollLeft += e.deltaX;
+  });
+}
 
 // Точки, еще не сделаны
 const index = 1;
