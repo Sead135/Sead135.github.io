@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Popup</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <button class="button main-button">Нажми меня</button>
+    </div>
+
+    <div class="modal" id="modal-form2">
+        <div class="modal__body">
+            <div class="modal__content">
+                <div class="modal__head">
+                    <h2>Регистрация на онлайн-семинар</h2>
+                    <div class="modal__close"></div>
+                </div>
+                <form class="modal__form" action="#" id="modalPopup2">
+                    <h3 class="center">Вы можете посетить онлайн-семинар:</h3>
+                    <h3 class="center h3-border" id="webinarPopup2">12 июля (вторник) в 19:00 мск или 14 июля (четверг) в 15:00 мск</h3>
+                    <h3 class="center">Участие бесплатное. Ссылка придет вам по почте и sms. Регистрируйтесь ↓</h3>
+                    <div class="modal__row">
+                        <div class="modal__label">Выберите удобное время семинара *</div>
+                        <div class="modal__select">
+                            <select name="" id="timePopup2">
+                                <option value="">-</option>
+                                <option value="в 15:00 по МСК">в 15.00 по МСК</option>
+                                <option value="в 19:00 по МСК">в 19.00 по МСК</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="modal__row">
+                        <div class="modal__label">Введите ваше имя *</div>
+                        <div class="modal__input">
+                            <input type="text" required="" id="namePopup2">
+                        </div>
+                    </div>
+                    <div class="modal__row">
+                        <div class="modal__label">Введите электронную почту *</div>
+                        <div class="modal__input">
+                            <input type="text" required="" id="emailPopup2">
+                        </div>
+                    </div>
+                    <div class="modal__row">
+                        <div class="modal__label">Телефон для смс-напоминания *</div>
+                        <div class="modal__input" data-type="phone">
+                            <input type="text" required="" id="phonePopup2">
+                        </div>
+                    </div>
+                    <button class="welcome__btn welcome__btn--form" type="submit"><i class="fa fa-arrow-right"></i><span>ПРИНЯТЬ УЧАСТИЕ</span></button>
+                    <div class="modal__policy">
+                        <p>Нажимая кнопку, вы даете согласие на <a class="modal-trigger" href="#" data-modal="#modal-policy">обработку персональных данных</a></p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="privacy modal" id="privacy">
+        <div class="privacy__container modal__body modal__content">
+            <div class="privacy__title modal__head">
+                <h2>Политики конфиденцильности</h2>
+                <button class="modal__close privacy__button"></button>
+            </div>
+            <div class="privacy__text">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Animi at culpa, cupiditate delectus deleniti dolorem eligendi eveniet,</p>
+                <p>laudantium minima nihil non omnis sunt tempore unde velit, veritatis vero</p>
+                <p>voluptas voluptates?Animi at culpa, cupiditate delectus deleniti dolorem eligendi</p>
+                <p>eveniet, laudantium minima nihil non omnis sunt tempore unde velit, veritatis vero</p>
+                <p>voluptas voluptates?</p>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
