@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>LevelUp</title>
+    <link rel="icon" href="assets/img/favicon.png" type="image/png" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body class="wrapper">
+    <!-- Navigation -->
+    <header class="header">
+      <nav class="navbar">
+        <div class="container">
+          <div class="navbar__inner">
+            <a class="navbar__logo" href="#!">LevelUp</a>
+            <div class="navbar__menu">
+              <ul class="menu__items">
+                <li class="menu__item">
+                  <a href="#composition" class="menu__item-link"
+                    >Состав продукта</a
+                  >
+                </li>
+                <li class="menu__item">
+                  <a href="#feedback" class="menu__item-link">Отзывы</a>
+                </li>
+                <li class="menu__item">
+                  <a href="#desc" class="menu__item-link">Описание</a>
+                </li>
+              </ul>
+              <button class="navbar__button button">Заказать</button>
+            </div>
+            <button class="menu__button">
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+      <div class="container">
+        <!-- Home Page Content -->
+        <section class="home">
+          <div class="home__inner">
+            <div class="home__content">
+              <h1 class="home__title">LevelUp</h1>
+              <ul class="home__items">
+                <li class="home__item">Отлично подходи для всех возрастов</li>
+                <li class="home__item">Отлично подходи для всех возрастов</li>
+                <li class="home__item">Отлично подходи для всех возрастов</li>
+              </ul>
+              <button class="home__button button">Оформить заказ</button>
+            </div>
+          </div>
+          <div class="home__img">
+            <img src="assets/img/prod.png" alt="Изображение продукта" />
+          </div>
+          <div class="video__block">
+            <video
+              class="video"
+              src="assets/video/video.mp4"
+              autoplay
+              loop
+              muted
+            ></video>
+          </div>
+        </section>
+
+        <!-- Compositions -->
+        <section class="composition" id="composition">
+          <div class="composition__content">
+            <div class="composition__block">
+              <div class="block__content">
+                <img src="assets/img/3d-fluency-strawberry.png" />
+                <h6 class="block__text">Какое-то описание</h6>
+              </div>
+            </div>
+
+            <div class="composition__block">
+              <div class="block__content">
+                <img src="assets/img/3d-fluency-grapes.png" />
+                <h6 class="block__text">Какое-то описание</h6>
+              </div>
+            </div>
+
+            <div class="composition__block">
+              <div class="block__content">
+                <img src="assets/img/3d-fluency-blueberry.png" />
+                <h6 class="block__text">Какое-то описание</h6>
+              </div>
+            </div>
+
+            <div class="composition__img">
+              <img src="assets/img/prod.png" />
+            </div>
+
+            <div class="composition__block">
+              <div class="block__content">
+                <img src="assets/img/3d-fluency-cherry.png" />
+                <h6 class="block__text">Какое-то описание</h6>
+              </div>
+            </div>
+
+            <div class="composition__block">
+              <div class="block__content">
+                <img src="assets/img/3d-fluency-orange-pumpkin.png" />
+                <h6 class="block__text">Какое-то описание</h6>
+              </div>
+            </div>
+
+            <div class="composition__block">
+              <div class="block__content">
+                <img src="assets/img/3d-fluency-banana.png" />
+                <h6 class="block__text">Какое-то описание</h6>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Feedback Page -->
+        <section class="feedback" id="feedback">
+          <div class="feedback__content">
+            <h2 class="feedback__title">Отзывы</h2>
+            <div class="feedback__slider swiper">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="slider__block">
+                    <div class="slider__container">
+                      <img
+                        src="assets/img/business-3d-young-woman-standing-with-laptop.png"
+                        alt="Аватар Валеры"
+                        class="slider__img"
+                      />
+                      <div class="slider__content">
+                        <h6 class="slider__title">Валера</h6>
+                        <p class="slider__text">Это лучшее средство!</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="slider__block">
+                    <div class="slider__container">
+                      <img
+                        src="assets/img/business-3d-young-man-standing-with-laptop.png"
+                        alt="Аватар Дениса"
+                        class="slider__img"
+                      />
+                      <div class="slider__content">
+                        <h6 class="slider__title">Денис</h6>
+                        <p class="slider__text">Все качественно и проверено.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="slider__block">
+                    <div class="slider__container">
+                      <img
+                        src="assets/img/business-3d-young-man-with-coffee-standing-and-speaking.png"
+                        alt="Аватар Владимира"
+                        class="slider__img"
+                      />
+                      <div class="slider__content">
+                        <h6 class="slider__title">Владимир</h6>
+                        <p class="slider__text">
+                          Посоветовал друг, проверил и оказался приятно удивлен.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="slider__block">
+                    <div class="slider__container">
+                      <img
+                        src="assets/img/business-3d-black-man-in-casual-clothes-holding-phone.png"
+                        alt="Аватар Маши"
+                        class="slider__img"
+                      />
+                      <div class="slider__content">
+                        <h6 class="slider__title">Маша</h6>
+                        <p class="slider__text">
+                          Мне понравилось, купила еще 2 банки.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="swiper-slide">
+                  <div class="slider__block">
+                    <div class="slider__container">
+                      <img
+                        src="assets/img/business-3d-old-businessman-giving-thumbs-up-and-looking-aside.png"
+                        alt="Аватар John"
+                        class="slider__img"
+                      />
+                      <div class="slider__content">
+                        <h6 class="slider__title">John</h6>
+                        <p class="slider__text">The Best!</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Description -->
+
+        <section class="desc" id="desc">
+          <div class="desc__inner">
+            <div class="desc__content">
+              <h1 class="desc__title">LevelUp</h1>
+              <ul class="desc__items">
+                <li class="desc__item">Отлично подходи для всех возрастов</li>
+                <li class="desc__item">Отлично подходи для всех возрастов</li>
+                <li class="desc__item">Отлично подходи для всех возрастов</li>
+              </ul>
+              <button class="desc__button button">Оформить заказ</button>
+            </div>
+          </div>
+          <div class="desc__img">
+            <img src="assets/img/doc_with_pills.png" alt="Изображение доктора" />
+          </div>
+        </section>
+
+        <!-- Order -->
+        <section class="order">
+          <div class="order__content">
+            <h2 class="order__title">Оформление заказа</h2>
+
+            <div class="order__inner">
+              <div class="order__block">
+                <div class="order__price">
+                  <h3>3 999руб.</h3>
+                  <span>20 999 руб.</span>
+                </div>
+                <form class="order__form">
+                  <div class="form__full-name">
+                    <input
+                      type="text"
+                      class="order__input"
+                      id="fullName"
+                      placeholder=" "
+                    />
+                    <label for="fullName" class="order__label"
+                      >Введите ваше Имя</label
+                    >
+                  </div>
+                  <div class="form__phone">
+                    <input
+                      type="number"
+                      id="phone"
+                      class="order__input"
+                      placeholder=" "
+                    />
+                    <label for="phone" class="order__label"
+                      >Номер телефона</label
+                    >
+                  </div>
+                  <button class="order__button form__button">Заказать</button>
+                </form>
+              </div>
+
+              <div class="order__img">
+                <img src="assets/img/prod.png" alt="Изображение продукта" />
+                <div class="time">
+                  <span class="min">30</span>
+                  <span class="sec">00</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+
+    <div class="modal">
+      <div class="modal__content">
+        <h6 class="modal__title">Спасибо за ваш заказ!</h6>
+        <p class="modal__text">
+          В ближайшее время с вами свяжется наш менеджер.
+        </p>
+        <button class="modal__close modal__button">Закрыть</button>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer__content">
+          <div class="footer__title">Все права защищены! 2022</div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="assets/js/main.js"></script>
+  </body>
+</html>
