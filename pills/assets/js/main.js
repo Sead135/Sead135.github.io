@@ -125,14 +125,13 @@ const sr = ScrollReveal({
   delay: 400,
 });
 
-sr.reveal(".home__img, .desc__img, .order__img", {
+sr.reveal(".home__img, .desc__img, .order__img, .feedback", {
   delay: 400,
   origin: "bottom",
   duration: 2500,
 });
 sr.reveal(".home__inner, .desc__inner, .order__inner");
 sr.reveal(".header");
-sr.reveal(".swiper-wrapper", { delay: 800, origin: "bottom", duration: 2500 });
 sr.reveal(".composition__img, .feedback__title, .order__title", {
   delay: 400,
   origin: "bottom",
