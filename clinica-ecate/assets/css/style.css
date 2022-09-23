@@ -816,6 +816,9 @@ body {
   .header__title {
     max-width: 224px;
   }
+  .header__title span {
+    white-space: nowrap;
+  }
   .home__date {
     font-size: 16.7111px;
     margin-bottom: 20px;
