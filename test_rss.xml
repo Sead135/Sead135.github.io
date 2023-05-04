@@ -1,20 +1,23 @@
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Center for Digital Learning</title>
-  <link href="https://cdl-geneseo.github.io/atom.xml" rel="self" />
-  <link href="https://cdl-geneseo.github.io/" />
-  <updated>2023-04-15T22:18:44+00:00</updated>
-  <id>https://cdl-geneseo.github.io/</id>
-  <author>
-    <name>Center for Digital Learning</name>
-    <email>cdl@geneseo.edu</email>
-  </author>
-  <entry>
-    <title>Douglass Day 2023 at SUNY Geneseo</title>
-    <link href="https://cdl-geneseo.github.io/news/2023/02/01/douglass-day-2023-at-suny-geneseo/" />
-    <updated>2023-02-01T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2023/02/01/douglass-day-2023-at-suny-geneseo</id>
-    <content type="html">
-      <p><img src="/images/transcribe-shadd-cary.png"
+<rss xmlns:dc="http://www.w3.org/2005/Atom" xmlns:content="http://www.w3.org/2005/Atom"
+  xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Center for Digital Learning</title>
+    <link href="https://cdl-geneseo.github.io/atom.xml" rel="self" />
+    <link href="https://cdl-geneseo.github.io/" />
+    <updated>2023-04-15T22:18:44+00:00</updated>
+    <id>https://cdl-geneseo.github.io/</id>
+    <author>
+      <name>Center for Digital Learning</name>
+      <email>cdl@geneseo.edu</email>
+    </author>
+    <item>
+      <title>Douglass Day 2023 at SUNY Geneseo</title>
+      <link href="https://cdl-geneseo.github.io/news/2023/02/01/douglass-day-2023-at-suny-geneseo/" />
+      <updated>2023-02-01T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2023/02/01/douglass-day-2023-at-suny-geneseo</id>
+      <description><![CDATA[
+      <p><img
+          src="/images/transcribe-shadd-cary.png"
           alt="Image of Mary Ann Shadd Cary and motto &quot;Transcribe Shadd Cary&quot;" /> <em
           class="image-caption">Mary Ann Shadd Cary. Image: Public domain. Design: <a
             href="https://douglassday.org">DouglassDay.org</a></em>.</p>
@@ -51,15 +54,16 @@
       <p>Everyone is welcome. We’d appreciate knowing whether you’ll be there! If you have a moment,
         please complete our <a href="https://forms.gle/71d9Uax4yKPBkjHh7">RSVP form</a> to let us
         know.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>They're Alive! View Recordings of "Tales from the Crypto"</title>
-    <link
-      href="https://cdl-geneseo.github.io/news/2022/04/19/view-recordings-of-tales-from-the-crypto/" />
-    <updated>2022-04-19T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2022/04/19/view-recordings-of-tales-from-the-crypto</id>
-    <content type="html">
+    ]]></description>
+    </item>
+    <item>
+      <title>They're Alive! View Recordings of "Tales from the Crypto"</title>
+      <link
+        href="https://cdl-geneseo.github.io/news/2022/04/19/view-recordings-of-tales-from-the-crypto/" />
+      <updated>2022-04-19T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2022/04/19/view-recordings-of-tales-from-the-crypto</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/classical_crypto.jpg"
           alt="Screen shot from Tales from the Crypto Episode 1" />
@@ -98,14 +102,16 @@
         title="YouTube video player" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen=""></iframe>
-    </content>
-  </entry>
-  <entry>
-    <title>Tales from the Crypto</title>
-    <link href="https://cdl-geneseo.github.io/news/2022/04/01/tales-from-the-crypto/" />
-    <updated>2022-04-01T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2022/04/01/tales-from-the-crypto</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Tales from the Crypto</title>
+      <link href="https://cdl-geneseo.github.io/news/2022/04/01/tales-from-the-crypto/" />
+      <updated>2022-04-01T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2022/04/01/tales-from-the-crypto</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/tales-from-the-crypto.png" alt="Tales from the Crypto series poster" />
       </p>
@@ -131,14 +137,16 @@
         (Political Science and International Relations), Chinmay Jain (School of Business), and
         Andrew Hart (Political Science and International Relations).</p>
       <p>Questions? Drop us a line at <a href="mailto:cdl@geneseo.edu">cdl@geneseo.edu</a>.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Ada Lovelace Day 2021 at Geneseo</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/10/07/ada-lovelace-day-2021/" />
-    <updated>2021-10-07T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/10/07/ada-lovelace-day-2021</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Ada Lovelace Day 2021 at Geneseo</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/10/07/ada-lovelace-day-2021/" />
+      <updated>2021-10-07T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/10/07/ada-lovelace-day-2021</id>
+      <description>
+<![CDATA[
       <p><img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/713px-Ada_Lovelace_portrait.jpg"
           width="700" alt="Portrait of Ada Lovelace" /> <em class="image-caption">Portrait of Ada
@@ -223,14 +231,16 @@
         Lovelace Day will highlight not only the achievements of women in STEM but also the ways in
         which the methods and insights of STEM fields and those of the arts and humanities inform
         each other — or, at least, ought to.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>It's our birthday!</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/07/09/its-our-birthday/" />
-    <updated>2021-07-09T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/07/09/its-our-birthday</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>It's our birthday!</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2021/07/09/its-our-birthday/" />
+      <updated>2021-07-09T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/07/09/its-our-birthday</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/birthday1.png"
           alt="Graphic of the CDL squirrel wearing a birthday hat in front of a piece of cake." />
@@ -257,14 +267,17 @@
         things we have in store! :sunglasses:</p>
       <p>And have a treat to celebrate our birthday … maybe you can stop by in person for next
         year’s celebration! :birthday:</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Cultivating human connection in online learning</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/05/14/cultivating-human-connection/" />
-    <updated>2021-05-14T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/05/14/cultivating-human-connection</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Cultivating human connection in online learning</title>
+      <link
+        href="https://cdl-geneseo.github.io/perspectives/2021/05/14/cultivating-human-connection/" />
+      <updated>2021-05-14T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/05/14/cultivating-human-connection</id>
+      <description>
+<![CDATA[
       <p>
         <span style="color:#365090;">
           <em>Note: This post was co-authored by <a href="/authors/henry">Abby Henry</a> and CDL
@@ -373,15 +386,17 @@
         alleviate the isolation many students and faculty in higher education are feeling right now.
         Forming genuine connections helps motivate students to stay engaged with their learning
         community, and creates a more compassionate learning environment for everyone.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Is this how they see us? Creating an antiracist online module for a course on visual
-      culture</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/05/12/is-this-how-they-see-us/" />
-    <updated>2021-05-12T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/05/12/is-this-how-they-see-us</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Is this how they see us? Creating an antiracist online module for a course on visual
+        culture</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2021/05/12/is-this-how-they-see-us/" />
+      <updated>2021-05-12T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/05/12/is-this-how-they-see-us</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/sherald_obama_flickr_pickering.jpg"
           alt="Portrait of Michelle Obama at National Portrait Gallery" />
@@ -485,14 +500,16 @@
         gender in advertising, I think I can introduce students to the multifaceted and often
         exclusionary world of visual culture. As consumers and producers of visuality, my students
         can help shape the field—even if they do so one drop or image at a time.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Reflection on teaching: Covid-19 and beyond</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/05/07/reflection-on-teaching/" />
-    <updated>2021-05-07T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/05/07/reflection-on-teaching</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Reflection on teaching: Covid-19 and beyond</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/05/07/reflection-on-teaching/" />
+      <updated>2021-05-07T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/05/07/reflection-on-teaching</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/reflect.jpg" alt="Puddle in pavement reflecting person above" />
         <em class="image-caption">Photo by <a
@@ -596,14 +613,16 @@
         hopes for the future. <strong>So let’s get together and talk about it!</strong></p>
       <p>Invite your colleagues, too. Together, we can continue, in Eyler’s words, to “hold the
         floor.”</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Dear Professor: crafting the perfect email to your professor</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/05/05/dear-professor/" />
-    <updated>2021-05-05T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/05/05/dear-professor</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Dear Professor: crafting the perfect email to your professor</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/05/05/dear-professor/" />
+      <updated>2021-05-05T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/05/05/dear-professor</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/messenger.jpg" alt="Text bubble made out of crumpled up index cards" />
         <em class="image-caption">Photo by <a
@@ -650,14 +669,16 @@
       <p>Thank you for following our micro-workshop series this semester! We can’t wait to be back
         with more quick, helpful workshops in the fall. Best of luck getting through the rest of
         this semester; we believe in you! :star2:</p>
-    </content>
-  </entry>
-  <entry>
-    <title>History department to offer fall course in digital humanities</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/04/28/fall-2021-course-in-dh/" />
-    <updated>2021-04-28T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/04/28/fall-2021-course-in-dh</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>History department to offer fall course in digital humanities</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/04/28/fall-2021-course-in-dh/" />
+      <updated>2021-04-28T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/04/28/fall-2021-course-in-dh</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/ms_or_285_openn.jpg"
           alt="Partial page from Columbia University manuscript collection" />
@@ -694,14 +715,16 @@
       </blockquote>
       <p>If you have questions about the course, don’t hesitate to email Dr. Ansari: <code
           class="language-plaintext highlighter-rouge">mansari@geneseo.edu</code>.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>One Bite at a Time: Making your to-do list work for you</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/04/26/one-bite-at-a-time/" />
-    <updated>2021-04-26T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/04/26/one-bite-at-a-time</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>One Bite at a Time: Making your to-do list work for you</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/04/26/one-bite-at-a-time/" />
+      <updated>2021-04-26T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/04/26/one-bite-at-a-time</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/to-do.jpg"
           alt="Woman biting pencil stressfully while looking at laptop screen" />
@@ -744,14 +767,16 @@
         extensions can be really intimidating, but we’re here to help!</p>
       <p>Remember, you’re going to get through this semester and you’re going to do great. We
         believe in you! :star2:</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Do, defer, delegate, and delete: how to gain control over your email</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/04/19/how-to-gain-control/" />
-    <updated>2021-04-19T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/04/19/how-to-gain-control</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Do, defer, delegate, and delete: how to gain control over your email</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/04/19/how-to-gain-control/" />
+      <updated>2021-04-19T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/04/19/how-to-gain-control</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/email.jpg"
           alt="Woman biting pencil stressfully while looking at laptop screen" />
@@ -810,14 +835,16 @@
         sharing the video just like this last one!</p>
       <p>Remember, we at the CDL (and many other departments!) are here to help, and we believe in
         you! :star2:</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Burned out and bewildered: students respond to pandemic online learning</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/04/09/burned-out-and-bewildered/" />
-    <updated>2021-04-09T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/04/09/burned-out-and-bewildered</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Burned out and bewildered: students respond to pandemic online learning</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2021/04/09/burned-out-and-bewildered/" />
+      <updated>2021-04-09T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/04/09/burned-out-and-bewildered</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/lego.jpg" alt="Lego person broken apart" />
         <em class="image-caption">Students, faculty, and staff are finding it harder to keep
@@ -1055,14 +1082,16 @@
         of the Provost</a> focused on student academic success, and the <a
           href="https://www.geneseo.edu/cdl">CDL</a> to make online learning at Geneseo the best
         possible experience for everyone involved.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Making connections</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/04/06/making-connections/" />
-    <updated>2021-04-06T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/04/06/making-connections</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Making connections</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2021/04/06/making-connections/" />
+      <updated>2021-04-06T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/04/06/making-connections</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/angie_thomas.jpg" alt="Author Angie Thomas signing books" />
         <em class="image-caption">Author Angie Thomas at a book signing. Photo by Flickr user <a
@@ -1109,14 +1138,16 @@
         biases in order to help make a change. Teaching students the importance of moving away from
         racial stereotypes and ideologies will help make them aware and, hopefully, lend a hand in
         creating an antiracist campus environment.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>We need to do more</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/03/31/we-need-to-do-more/" />
-    <updated>2021-03-31T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/03/31/we-need-to-do-more</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>We need to do more</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2021/03/31/we-need-to-do-more/" />
+      <updated>2021-03-31T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/03/31/we-need-to-do-more</id>
+      <description>
+<![CDATA[
       <p>
         <a
           href="https://cdl-geneseo.github.io/images/bhs_midatl003443863_a-scaled_35pc_chenussio.jpg">
@@ -1191,15 +1222,17 @@
         as we approached the end of the session. We need to do more. History can impose obligations,
         I tell my students, and I hope the intersession class in some small way made these
         obligations more difficult to ignore.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>What do we do now?</title>
-    <link
-      href="https://cdl-geneseo.github.io/perspectives/2021/03/26/politics-of-the-judicial-process/" />
-    <updated>2021-03-26T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/03/26/politics-of-the-judicial-process</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>What do we do now?</title>
+      <link
+        href="https://cdl-geneseo.github.io/perspectives/2021/03/26/politics-of-the-judicial-process/" />
+      <updated>2021-03-26T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/03/26/politics-of-the-judicial-process</id>
+      <description>
+<![CDATA[
       <p>
         <img src="https://cdn.nybooks.com/wp-content/uploads/2020/10/blight_1-111920.jpg"
           alt="A mob of white men posing in front of the office of the black-owned Daily Record newspaper after burning it down, Wilmington, North Carolina, November 10, 1898" />
@@ -1277,16 +1310,18 @@
         change.</p>
       <p>So, my course sustained the College’s efforts within an academic setting. It did seem to
         encourage and sustain some student action. This is good.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Environmental Issues: sustainability, justice, and antiracism</title>
-    <link
-      href="https://cdl-geneseo.github.io/perspectives/2021/03/22/environmental-issues-sustainability-justice-antiracism/" />
-    <updated>2021-03-22T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/perspectives/2021/03/22/environmental-issues-sustainability-justice-antiracism</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Environmental Issues: sustainability, justice, and antiracism</title>
+      <link
+        href="https://cdl-geneseo.github.io/perspectives/2021/03/22/environmental-issues-sustainability-justice-antiracism/" />
+      <updated>2021-03-22T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/perspectives/2021/03/22/environmental-issues-sustainability-justice-antiracism</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/Sentinel-2-L1C-image-on-2017-12-07.jpg" alt="Theewaterskloof Dam in 2017" />
         <em class="image-caption">Satellite photo of Theewaterskloof Dam, South Africa, during the
@@ -1345,7 +1380,7 @@
         were asked to distinguish between credible sources and “<a
           href="https://www.getbadnews.com/#intro">fake news</a>.” Subsequent assignments asked them
         to think critically about deforestation in the rainforest and citizen science projects, and
-        to trace the possible supply chain for one entry that they owned. (For example: What minerals
+        to trace the possible supply chain for one item that they owned. (For example: What minerals
         went into making your computer and what were the socio-ecological implications from mining
         those minerals?) As we progressed into explicitly examining social and racial injustices, we
         dug into <a href="https://www.youtube.com/watch?v=EZmxEY6QoUY">Cape Town’s water crisis</a>,
@@ -1387,16 +1422,18 @@
         Therefore, in the future, I would prefer to have at a minimum a required synchronous
         component to this class to ensure that all students have the opportunity to undergo the
         process of understanding these important connections and implications.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Teaching Jackie Robinson during the covid pandemic</title>
-    <link
-      href="https://cdl-geneseo.github.io/perspectives/2021/03/20/teaching-jackie-robinson-during-the-covid-pandemic/" />
-    <updated>2021-03-20T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/perspectives/2021/03/20/teaching-jackie-robinson-during-the-covid-pandemic</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Teaching Jackie Robinson during the covid pandemic</title>
+      <link
+        href="https://cdl-geneseo.github.io/perspectives/2021/03/20/teaching-jackie-robinson-during-the-covid-pandemic/" />
+      <updated>2021-03-20T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/perspectives/2021/03/20/teaching-jackie-robinson-during-the-covid-pandemic</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/Jackie_Robinson_Brooklyn_Dodgers_1954.jpg"
           alt="Jackie Robinson at bat in 1954" />
@@ -1528,14 +1565,16 @@
         outcomes that meet a set of values? Perhaps some of my colleagues in other disciplines have
         already tackled this issue. One thing this course has taught me is that I need to learn more
         about how to be more intentionally antiracist in course design, not just in content.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Can a small change really make a big difference?</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/03/17/can-a-small-change/" />
-    <updated>2021-03-17T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/03/17/can-a-small-change</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Can a small change really make a big difference?</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2021/03/17/can-a-small-change/" />
+      <updated>2021-03-17T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/03/17/can-a-small-change</id>
+      <description>
+<![CDATA[
       <p>
         <img src="https://live.staticflickr.com/7179/6903154833_f6a5c4f5b1_b.jpg"
           alt="Measuring units image" />
@@ -1560,7 +1599,7 @@
       <p>When I was presented with the opportunity to support the college’s value of inclusion
         through integrating antiracist content into my January 2021 intersession online course, I
         quickly jumped at the chance knowing that the process would foster my personal and
-        professional growth. With feelings of excentryent and apprehension, I began the work.</p> <!--more-->
+        professional growth. With feelings of excitement and apprehension, I began the work.</p> <!--more-->
       <p><em>What course should I choose?</em> Intercultural Communication. It is a perfect fit.</p>
       <p><em>In what unit should I integrate content on antiracism?</em> The unit on “Histories and
         Identities” seemed right since in this unit we explore various identities, the relationship
@@ -1641,14 +1680,16 @@
         <li>Even the smallest change can make a big difference.</li>
       </ol>
       <p>I hope my students learned these lessons, too!</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Four weeks online: race, racism, and the Black experience in the Americas</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2021/03/15/four-weeks-online/" />
-    <updated>2021-03-15T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2021/03/15/four-weeks-online</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Four weeks online: race, racism, and the Black experience in the Americas</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2021/03/15/four-weeks-online/" />
+      <updated>2021-03-15T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2021/03/15/four-weeks-online</id>
+      <description>
+<![CDATA[
       <p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Largodopelo.jpg"
           alt="Largodopelo image" />
@@ -1715,16 +1756,18 @@
         posts. In some ways, the intensity of a four-week intersession during which they were fully
         committed to the course, without other courses competing for their time, facilitated their
         dedication to the course’s materials and goals.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>A community conversation on student workload in online courses</title>
-    <link
-      href="https://cdl-geneseo.github.io/news/2021/03/11/a-community-conversation-on-student-workload-in-online-courses/" />
-    <updated>2021-03-11T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/news/2021/03/11/a-community-conversation-on-student-workload-in-online-courses</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>A community conversation on student workload in online courses</title>
+      <link
+        href="https://cdl-geneseo.github.io/news/2021/03/11/a-community-conversation-on-student-workload-in-online-courses/" />
+      <updated>2021-03-11T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/news/2021/03/11/a-community-conversation-on-student-workload-in-online-courses</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/student-workload-forum.png" alt="Student workload conversation poster" />
       </p>
@@ -1778,16 +1821,18 @@
       <p>With an abundance of good will, students and faculty at Geneseo have been making their best
         effort and then some. But good will alone won’t solve the paradox. We need to talk, we need
         to think together, we need to find solutions. March 18 will be a chance to do all three.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Geneseo rejects online proctoring. One reason? Coded bias.</title>
-    <link
-      href="https://cdl-geneseo.github.io/perspectives/2021/02/17/geneseo-rejects-online-proctoring-one-reason-coded-bias/" />
-    <updated>2021-02-17T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/perspectives/2021/02/17/geneseo-rejects-online-proctoring-one-reason-coded-bias</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Geneseo rejects online proctoring. One reason? Coded bias.</title>
+      <link
+        href="https://cdl-geneseo.github.io/perspectives/2021/02/17/geneseo-rejects-online-proctoring-one-reason-coded-bias/" />
+      <updated>2021-02-17T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/perspectives/2021/02/17/geneseo-rejects-online-proctoring-one-reason-coded-bias</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/1_JoyinMaskStill_50-percent.png" alt="Still from Coded Bias film" />
         <em class="image-caption">Media kit still from the film <a
@@ -1945,16 +1990,18 @@
       <p>These other approaches seek to give students less reason for cheating to begin with. I’ll
         write about them in a future post. They’re preferable by far to the surveillance approach
         that Geneseo has wisely refused.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Student data collection: helpful history, harmful possibilities?</title>
-    <link
-      href="https://cdl-geneseo.github.io/perspectives/2021/02/08/student-data-collection-helpful-history-harmful-possibilities/" />
-    <updated>2021-02-08T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/perspectives/2021/02/08/student-data-collection-helpful-history-harmful-possibilities</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Student data collection: helpful history, harmful possibilities?</title>
+      <link
+        href="https://cdl-geneseo.github.io/perspectives/2021/02/08/student-data-collection-helpful-history-harmful-possibilities/" />
+      <updated>2021-02-08T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/perspectives/2021/02/08/student-data-collection-helpful-history-harmful-possibilities</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/scrabble-data.jpg" alt="Blocks with letters D-A-T-A" />
         <em class="image-caption">Photo by Flickr user <a href="https://flic.kr/p/nVGMsH">janneke
@@ -2137,14 +2184,16 @@
       <p>Marachi, Roxana and Lawrence Quill. “The case of Canvas: Longitudinal datafication through
         learning management systems.” <em>Teaching in Higher Education</em>, vol. 25, no.4, 2020,
         pp. 418-434.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Black History Month and February 2021 newsletter</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/02/04/february-newsletter-and-bhm/" />
-    <updated>2021-02-04T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/02/04/february-newsletter-and-bhm</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Black History Month and February 2021 newsletter</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/02/04/february-newsletter-and-bhm/" />
+      <updated>2021-02-04T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/02/04/february-newsletter-and-bhm</id>
+      <description>
+<![CDATA[
       <h2 id="suny-geneseo-honors-black-history-month">SUNY Geneseo Honors Black History Month</h2>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/XDXSg8997UA"
         frameborder="0"
@@ -2191,14 +2240,16 @@
       <p>
         <img src="/images/Feb-21-Newsletter.jpg" alt="CDL February newsletter" />
       </p>
-    </content>
-  </entry>
-  <entry>
-    <title>ASSESStivus 2021: assessment for the rest of us</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/01/22/assesstivus/" />
-    <updated>2021-01-22T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/01/22/assesstivus</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>ASSESStivus 2021: assessment for the rest of us</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/01/22/assesstivus/" />
+      <updated>2021-01-22T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/01/22/assesstivus</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/assesstivus-logo.png" alt="CDL banner logo" />
       </p>
@@ -2228,14 +2279,16 @@
         each also brings certain of these aspects into sharp focus. Adequately assessing
         effectiveness requires that we inspect and measure our programming through all three lenses.
         The session will invite discussion about the best way to accomplish this goal.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Workshops galore!</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/01/19/workshops-galore/" />
-    <updated>2021-01-19T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/01/19/workshops-galore</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Workshops galore!</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/01/19/workshops-galore/" />
+      <updated>2021-01-19T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/01/19/workshops-galore</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/CDLLogoBanner_small.png" alt="CDL banner logo" />
       </p>
@@ -2282,14 +2335,16 @@
       <p>
         <img src="/images/CLPart2Workshop.jpg" alt="CDL Command-Line workshop flyer" />
       </p>
-    </content>
-  </entry>
-  <entry>
-    <title>January 2021 newsletter and events calendar</title>
-    <link href="https://cdl-geneseo.github.io/news/2021/01/05/january-newsletter/" />
-    <updated>2021-01-05T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2021/01/05/january-newsletter</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>January 2021 newsletter and events calendar</title>
+      <link href="https://cdl-geneseo.github.io/news/2021/01/05/january-newsletter/" />
+      <updated>2021-01-05T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2021/01/05/january-newsletter</id>
+      <description>
+<![CDATA[
       <p><span class="drop">W</span>e’re back with another newsletter; our second of all time and
         first of the new year! This month we’re looking back on December’s “CDL Conversation”, which
         refers to a topic regularly discussed, researched, and considered by the Center. Check out
@@ -2314,16 +2369,18 @@
         <em class="image-caption">Visit <a href="https://www.geneseo.edu/cdl/newsletter-archive">the
           CDL website</a> to download the PDF of this newsletter and to find future newsletters.</em>
       </p>
-    </content>
-  </entry>
-  <entry>
-    <title>Workshop announcement — Managing your Google Cloud storage</title>
-    <link
-      href="https://cdl-geneseo.github.io/news/2020/12/30/workshop-announcement-managing-your-google-cloud-storage/" />
-    <updated>2020-12-30T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/news/2020/12/30/workshop-announcement-managing-your-google-cloud-storage</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Workshop announcement — Managing your Google Cloud storage</title>
+      <link
+        href="https://cdl-geneseo.github.io/news/2020/12/30/workshop-announcement-managing-your-google-cloud-storage/" />
+      <updated>2020-12-30T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/news/2020/12/30/workshop-announcement-managing-your-google-cloud-storage</id>
+      <description>
+<![CDATA[
       <p><span class="drop">T</span>he Center for Digital Learning is excited to announce that we
         will be hosting a workshop on optimizing how you can organize and use your Google Drive at
         Geneseo. This workshop will be presented by <a href="https://www.geneseo.edu/cdl/leadership">Laurie
@@ -2353,14 +2410,16 @@
         <img src="/images/CDLMYGCSWorkshopFlyer.png"
           alt="CDL Managing Your Google Cloud Storage workshop flyer" />
       </p>
-    </content>
-  </entry>
-  <entry>
-    <title>Breaking the black box video series</title>
-    <link href="https://cdl-geneseo.github.io/news/2020/12/15/breaking-the-black-box/" />
-    <updated>2020-12-15T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2020/12/15/ breaking-the-black-box</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Breaking the black box video series</title>
+      <link href="https://cdl-geneseo.github.io/news/2020/12/15/breaking-the-black-box/" />
+      <updated>2020-12-15T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2020/12/15/ breaking-the-black-box</id>
+      <description>
+<![CDATA[
       <p><span class="drop">I</span>n 2016, ProPublica published a series of short informational
         videos that explain how online algorithms influence our daily lives in numerous, and often
         concealed, ways. Each video is less than 3 minutes long, and is accompanied by a ProPublica
@@ -2420,14 +2479,16 @@
       <p>For now, however, we’ll take all the education we can get on these increasingly influencial
         digital mechanisms, while continuing to apply a critical eye to how and why that information
         gets to us.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>December 2020 newsletter</title>
-    <link href="https://cdl-geneseo.github.io/news/2020/12/07/december-2020-newsletter/" />
-    <updated>2020-12-07T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2020/12/07/december-2020-newsletter</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>December 2020 newsletter</title>
+      <link href="https://cdl-geneseo.github.io/news/2020/12/07/december-2020-newsletter/" />
+      <updated>2020-12-07T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2020/12/07/december-2020-newsletter</id>
+      <description>
+<![CDATA[
       <p><span class="drop">T</span>he CDL is starting a newsletter! As we wrap up our first
         semester of operation at Geneseo, we realized how much we’ve accomplished and how much we
         have to look forward to. After chatting with some of the members of our <a
@@ -2454,14 +2515,16 @@
         <em class="image-caption">Visit <a href="https://www.geneseo.edu/cdl/newsletter-archive">the
           CDL website</a> to download the PDF of this newsletter and to find future newsletters.</em>
       </p>
-    </content>
-  </entry>
-  <entry>
-    <title>Call for participation! The future of digital learning at SUNY Geneseo</title>
-    <link href="https://cdl-geneseo.github.io/news/2020/11/16/call-for-participation/" />
-    <updated>2020-11-16T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2020/11/16/call-for-participation</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Call for participation! The future of digital learning at SUNY Geneseo</title>
+      <link href="https://cdl-geneseo.github.io/news/2020/11/16/call-for-participation/" />
+      <updated>2020-11-16T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2020/11/16/call-for-participation</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/arrow.jpg"
           alt="Picture of a white arrow pointing forward painted on pavement" />
@@ -2502,14 +2565,16 @@
         remote learning time first hand. Only then can we start to move toward something better,
         empowered by a well-informed plan.</p>
       <p>We’re excited to learn from you!</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Introducing</title>
-    <link href="https://cdl-geneseo.github.io/news/2020/11/12/introducing-the-elements/" />
-    <updated>2020-11-12T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2020/11/12/introducing-the-elements</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Introducing</title>
+      <link href="https://cdl-geneseo.github.io/news/2020/11/12/introducing-the-elements/" />
+      <updated>2020-11-12T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2020/11/12/introducing-the-elements</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/water.jpg" alt="Picture of a glass of water" />
         <em class="image-caption">A refreshing glass of 01001000 00110010 0011000, brought to you by
@@ -2552,14 +2617,17 @@
             4.0</a></small>
         </em>
       </p>
-    </content>
-  </entry>
-  <entry>
-    <title>Covid-19 Tales competition announced</title>
-    <link href="https://cdl-geneseo.github.io/news/2020/11/10/covid-19-tales-competition-announced/" />
-    <updated>2020-11-10T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2020/11/10/covid-19-tales-competition-announced</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Covid-19 Tales competition announced</title>
+      <link
+        href="https://cdl-geneseo.github.io/news/2020/11/10/covid-19-tales-competition-announced/" />
+      <updated>2020-11-10T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2020/11/10/covid-19-tales-competition-announced</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/lightbulb.jpg" alt="Picture of a lightbulb" />
         <em class="image-caption">“Idea,” by Joey Gannon, <a
@@ -2607,14 +2675,16 @@
             href="https://docs.google.com/document/d/1E-tjxgMGVrp7J7eD9SW8QzBjC56jXjyOpnQUtXIvnVM/edit?usp=sharing">Geneseo’s
           photo release form</a>.</p>
       </blockquote>
-    </content>
-  </entry>
-  <entry>
-    <title>Happy International Open Access Week!</title>
-    <link href="https://cdl-geneseo.github.io/news/2020/10/19/open-access-week/" />
-    <updated>2020-10-19T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2020/10/19/open-access-week</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Happy International Open Access Week!</title>
+      <link href="https://cdl-geneseo.github.io/news/2020/10/19/open-access-week/" />
+      <updated>2020-10-19T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2020/10/19/open-access-week</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/oaweek.jpg" alt="Open Access Week logo" />
         <em class="image-caption">Open Access Week 2020</em>
@@ -2654,16 +2724,18 @@
       <hr />
       <p>Keep an eye on <a href="https://news.milne-library.org/">Milne’s Blog</a> for more
         information on all of these topics (and more!) throughout the week!</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Share This Canvas Resource on Ways to Vote in NY</title>
-    <link
-      href="https://cdl-geneseo.github.io/news/2020/10/07/share-this-canvas-resource-on-ways-to-vote-in-ny/" />
-    <updated>2020-10-07T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/news/2020/10/07/share-this-canvas-resource-on-ways-to-vote-in-ny</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Share This Canvas Resource on Ways to Vote in NY</title>
+      <link
+        href="https://cdl-geneseo.github.io/news/2020/10/07/share-this-canvas-resource-on-ways-to-vote-in-ny/" />
+      <updated>2020-10-07T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/news/2020/10/07/share-this-canvas-resource-on-ways-to-vote-in-ny</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/statue-of-liberty.jpg" alt="Photo of the Statue of Liberty" />
         <em class="image-caption">Statue of Liberty, by Flickr user Steve Parker, CC-BY-2.0</em>
@@ -2720,14 +2792,16 @@
         have the time.</p>
       <p>If you have questions about the content of the Announcement or this post, please feel free
         to email me at <code class="language-plaintext highlighter-rouge">kwest@geneseo.edu</code>.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Inclusive Online Teaching Webinars hosted by ACUE</title>
-    <link href="https://cdl-geneseo.github.io/news/2020/10/01/inclusive-online-teaching-webinars/" />
-    <updated>2020-10-01T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/news/2020/10/01/inclusive-online-teaching-webinars</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Inclusive Online Teaching Webinars hosted by ACUE</title>
+      <link href="https://cdl-geneseo.github.io/news/2020/10/01/inclusive-online-teaching-webinars/" />
+      <updated>2020-10-01T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/news/2020/10/01/inclusive-online-teaching-webinars</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/ACUE_color2.png" alt="ACUE Logo" />
       </p>
@@ -2752,16 +2826,18 @@
         and practices covered by presenters in our own campus context. We see this as a great way to
         start our center’s important work to promote conversation around digital learning at
         Geneseo, and hope to “see” you there!</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Provost Office Announces Faculty Incentives for Intersession 2021</title>
-    <link
-      href="https://cdl-geneseo.github.io/news/2020/09/30/provost-office-announces-2021-intersession-incentives/" />
-    <updated>2020-09-30T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/news/2020/09/30/provost-office-announces-2021-intersession-incentives</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Provost Office Announces Faculty Incentives for Intersession 2021</title>
+      <link
+        href="https://cdl-geneseo.github.io/news/2020/09/30/provost-office-announces-2021-intersession-incentives/" />
+      <updated>2020-09-30T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/news/2020/09/30/provost-office-announces-2021-intersession-incentives</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/megaphone.jpg" alt="Sketch of a megaphone" />
         <em class="image-caption">Megaphone, by Flickr user Jeff Ferzoco, CC BY-NC 2.0</em>
@@ -2799,7 +2875,7 @@
         is a short list of examples. It’s not exhaustive; you may be able to earn the incentive for
         implementing practices other than these. To earn this incentive, you must (1) meet with an
         instructional designer in CIT to agree upon appropriate best practices to implement and (2)
-        Complete the required entrys in CIT’s Course Readiness Checklist and implement the practices
+        Complete the required items in CIT’s Course Readiness Checklist and implement the practices
         in your Canvas course(s) by December 14, 2020. Payment of this incentive is contingent on
         CIT acknowledgment that the agreed-upon practices were successfully implemented by the
         deadline.</p>
@@ -2884,14 +2960,16 @@
             href="https://www.geneseo.edu/tlc/becoming-antiracist-college-project">Becoming an
           Antiracist College</a>.</em>
       </p>
-    </content>
-  </entry>
-  <entry>
-    <title>Evaluating online teaching</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2020/09/17/evaluating-online-teaching/" />
-    <updated>2020-09-17T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2020/09/17/evaluating-online-teaching</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Evaluating online teaching</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2020/09/17/evaluating-online-teaching/" />
+      <updated>2020-09-17T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2020/09/17/evaluating-online-teaching</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/design_museum_london.jpg" alt="Interior photograph, Design Museum, London" />
         <em class="image-caption">Design Museum, London by Flickr user diamond geezer, CC BY-NC-ND
@@ -3122,16 +3200,18 @@
         faculty, students, and staff have been gathering on this topic and others related to digital
         learning, I invite you to follow our public bibliograpy on <a
           href="https://www.zotero.org/groups/2538807/cdl-geneseo/library">Zotero</a>.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>CFP: Digital Pedagogy in the Humanities Classroom</title>
-    <link
-      href="https://cdl-geneseo.github.io/news/2020/08/24/cfp-digital-pedagogy-in-the-humanities-classroom/" />
-    <updated>2020-08-24T00:00:00+00:00</updated>
-    <id>
-      https://cdl-geneseo.github.io/news/2020/08/24/cfp-digital-pedagogy-in-the-humanities-classroom</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>CFP: Digital Pedagogy in the Humanities Classroom</title>
+      <link
+        href="https://cdl-geneseo.github.io/news/2020/08/24/cfp-digital-pedagogy-in-the-humanities-classroom/" />
+      <updated>2020-08-24T00:00:00+00:00</updated>
+      <id>
+        https://cdl-geneseo.github.io/news/2020/08/24/cfp-digital-pedagogy-in-the-humanities-classroom</id>
+      <description>
+<![CDATA[
       <p><span class="drop">T</span>he <a href="https://cpd.suny.edu">SUNY Center for Professional
         Development</a>, together with the <a href="https://system.suny.edu/olis/">Office of Library
         and Information Services</a> and <a href="http://www.sunypress.edu/">SUNY Press</a>, has
@@ -3168,14 +3248,16 @@
           spectrum of learning situations, from fully physical to hybrid to fully remote
           instruction.</p>
       </blockquote>
-    </content>
-  </entry>
-  <entry>
-    <title>My why</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2020/08/14/mywhy/" />
-    <updated>2020-08-14T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2020/08/14/mywhy</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>My why</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2020/08/14/mywhy/" />
+      <updated>2020-08-14T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2020/08/14/mywhy</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/books.jpg" alt="" />
         <em class="image-caption">Photo by Morgan Harper Nichols on Unsplash</em>
@@ -3250,14 +3332,16 @@
       <p>I’ve had a lot of whys along the way, and, given the path here, I’m beyond excited to
         figure out all the new whys ahead.</p>
       <p>Welcome to the ride.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Year One</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2020/08/04/yearone/" />
-    <updated>2020-08-04T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2020/08/04/yearone</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Year One</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2020/08/04/yearone/" />
+      <updated>2020-08-04T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2020/08/04/yearone</id>
+      <description>
+<![CDATA[
       <p>
         <img src="/images/begin.jpg" alt="" />
         <em class="image-caption">Photo by Danielle MacInnes on Unsplash</em>
@@ -3282,7 +3366,7 @@
         organizations and initiatives feel insecure as they strive to adapt to a new reality, and so
         the uncertainty around beginning a new endeavor such as this is only amplified. However,
         that being said, there’s also a sense that these types of initiatives are increasingly
-        necessary. Combine that sense with the excentryent of a challenge, and you get our team’s
+        necessary. Combine that sense with the excitement of a challenge, and you get our team’s
         determined motivation. Some of what we hoped to do can be converted to virtual alternatives,
         such as our workshops and aspects of collaboration, and some will simply have to wait; that
         hustle and bustle of a physical center will be all the more exhilarating when we can
@@ -3326,14 +3410,16 @@
         structured way. We’re here to listen and to strategize, and to hold voices up even while
         we’re apart.</p>
       <p>So, welcome to our playhouse; we hope you’re ready to begin.</p>
-    </content>
-  </entry>
-  <entry>
-    <title>Why?</title>
-    <link href="https://cdl-geneseo.github.io/perspectives/2020/07/27/why/" />
-    <updated>2020-07-27T00:00:00+00:00</updated>
-    <id>https://cdl-geneseo.github.io/perspectives/2020/07/27/why</id>
-    <content type="html">
+    ]]>
+</description>
+    </item>
+    <item>
+      <title>Why?</title>
+      <link href="https://cdl-geneseo.github.io/perspectives/2020/07/27/why/" />
+      <updated>2020-07-27T00:00:00+00:00</updated>
+      <id>https://cdl-geneseo.github.io/perspectives/2020/07/27/why</id>
+      <description>
+<![CDATA[
       <p><span class="drop">W</span>hy a Center for Digital Learning? Without a center to hold them,
         things don’t always fall apart, but they don’t necessarily hang together.</p>
       <p>A range of offices and individuals have long worked hard to advance one or more forms of
@@ -3436,6 +3522,8 @@
         applied-learning component, and leading a campus-wide conversation on the future of digital
         learning at Geneseo.</p>
       <p>It’s a huge understatement to say I’m looking forward to it.</p>
-    </content>
-  </entry>
-</feed>
+    ]]>
+</description>
+    </item>
+  </channel>
+</rss>
