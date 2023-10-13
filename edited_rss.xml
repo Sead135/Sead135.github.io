@@ -26,7 +26,7 @@
 		<itunes:category text="Business">
 			<itunes:category text="Non-Profit"/>
 		</itunes:category>
-		<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/31573104/31573104-1665079462294-06f4c9f04fb37.jpg"/>
+		<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/31573104/31573104-1665079462294-06f4c9f04fb37.jpg" medium="image" width="300" height="300"/>
 		<item>
 			<title><![CDATA[Created To Create]]></title>
 			<description><![CDATA[<p>In this message entitled Created to Create, Pastor Zach will explain how we serve a creative God who has made us in His image, so we are designed to be creative. He will share how creativity is reflection, creativity is expression of emotion and worship, and finally creativity is problem solving.</p>
@@ -42,7 +42,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:49:04</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1686178932849-627ee9f480395.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1686178932849-627ee9f480395.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -59,7 +59,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:45:20</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1686110894630-82bc5fdc23d9b.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1686110894630-82bc5fdc23d9b.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -76,7 +76,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:02</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1684863659748-e1b0dd915ca31.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1684863659748-e1b0dd915ca31.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -95,7 +95,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:40:46</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1684528527513-155515c96fb3f.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1684528527513-155515c96fb3f.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -114,7 +114,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:01</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1684276140172-7c36a77d52418.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1684276140172-7c36a77d52418.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -131,7 +131,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:45:10</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1683208371984-71a93e8671eaf.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1683208371984-71a93e8671eaf.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -148,7 +148,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:37</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1682527857118-aecb5ce3e50c1.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1682527857118-aecb5ce3e50c1.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -165,7 +165,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:07</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1682047361511-7c090a76a641b.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1682047361511-7c090a76a641b.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -182,7 +182,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:46:30</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1681534175663-d5b9c5df792c2.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1681534175663-d5b9c5df792c2.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -199,7 +199,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:47</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1680727632405-68142b109e05b.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1680727632405-68142b109e05b.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -216,7 +216,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:27</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1680401006907-cf784c0b69414.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1680401006907-cf784c0b69414.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -233,7 +233,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:51</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1679672719908-248d1777f2575.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/31573104/31573104-1679672719908-248d1777f2575.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -250,7 +250,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:41:42</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1678997196988-c2b9ec76c0af2.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1678997196988-c2b9ec76c0af2.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -267,7 +267,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:47:33</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1678342268155-c5b074e9a645.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1678342268155-c5b074e9a645.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -284,7 +284,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:52:56</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1677803885743-bd316f618f0fd.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1677803885743-bd316f618f0fd.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -301,7 +301,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:44:35</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1677028145972-ca3644dbe14d5.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1677028145972-ca3644dbe14d5.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -318,7 +318,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:05</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1676522445449-ff4122286c667.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1676522445449-ff4122286c667.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -338,7 +338,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:22</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1675895659446-8b65c6f18751e.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1675895659446-8b65c6f18751e.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -355,7 +355,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:26:19</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1675200454549-45a68c2fdb159.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1675200454549-45a68c2fdb159.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -372,7 +372,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:29</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1674509164136-8b189c2ddeb72.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1674509164136-8b189c2ddeb72.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -389,7 +389,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:49:30</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1673898449010-a7f18676bc6da.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1673898449010-a7f18676bc6da.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -406,7 +406,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:45</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1673238113610-0881679465667.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1673238113610-0881679465667.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -424,7 +424,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:58</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1673238486405-8a6e99c603fba.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1673238486405-8a6e99c603fba.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2023</itunes:season>
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -442,7 +442,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:32:13</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1672244305163-9ce321c9f7ea7.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1672244305163-9ce321c9f7ea7.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -460,7 +460,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:39:55</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1670817803916-b66a2a8683f12.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1670817803916-b66a2a8683f12.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -477,7 +477,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:26</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1670214782541-e66617d6903f.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1670214782541-e66617d6903f.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -494,7 +494,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:53:16</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1669619690371-aa482030e8649.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1669619690371-aa482030e8649.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -511,7 +511,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:46:42</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1669077941479-aecfac8852be1.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1669077941479-aecfac8852be1.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -530,7 +530,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:52:40</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1668657301234-846efca74b76b.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1668657301234-846efca74b76b.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -547,7 +547,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:13</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1668104369176-d680183757873.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1668104369176-d680183757873.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -564,7 +564,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:20</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1667438736287-4b291dca1958e.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1667438736287-4b291dca1958e.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -581,7 +581,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:52:37</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1667438322972-47c3520713638.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1667438322972-47c3520713638.jpg" medium="image" width="300" height="300"/>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -598,7 +598,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:45</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666234314284-8a08947918064.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666234314284-8a08947918064.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -615,7 +615,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:47:13</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666274853708-898d2b963693b.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666274853708-898d2b963693b.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -632,7 +632,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:36:04</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665030328309-27344ab016084.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665030328309-27344ab016084.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>10</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -650,7 +650,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:51</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665029701432-f6add721c8177.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665029701432-f6add721c8177.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -668,7 +668,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:53:55</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665029337267-d1e3b07befec4.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665029337267-d1e3b07befec4.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>8</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -686,7 +686,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:07</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665029190918-bfc72fab57229.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665029190918-bfc72fab57229.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>7</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -704,7 +704,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:05</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028873686-d0fdcda1ac6a1.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028873686-d0fdcda1ac6a1.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>6</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -722,7 +722,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:39:51</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028727935-bb0cbc402b3bb.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028727935-bb0cbc402b3bb.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>5</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -740,7 +740,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:25</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028651370-49fc1c6c03834.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028651370-49fc1c6c03834.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>4</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -758,7 +758,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:38</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028470976-8347e86d903f3.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665028470976-8347e86d903f3.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -776,7 +776,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:49</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665027151006-137f3cdd8b1c9.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1665027151006-137f3cdd8b1c9.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -794,7 +794,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:50:57</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666238827641-5eb8049d2a91a.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666238827641-5eb8049d2a91a.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -811,7 +811,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:47:19</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666241423591-c9990476209e.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666241423591-c9990476209e.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -828,7 +828,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:27</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666241505803-b62ba95db3d1d.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666241505803-b62ba95db3d1d.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -845,7 +845,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:45:14</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666241718085-a2c1e3153d33d.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666241718085-a2c1e3153d33d.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -862,7 +862,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:48:32</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666242199002-62c6e0f66e551.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666242199002-62c6e0f66e551.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -879,7 +879,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:41:47</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242268837-7f252046a91eb.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242268837-7f252046a91eb.jpg" medium="image" width="300" height="300"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -895,7 +895,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:41:57</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242404703-794592e1afe2b.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242404703-794592e1afe2b.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -912,7 +912,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:42:54</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242749707-2c021305ec448.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242749707-2c021305ec448.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -929,7 +929,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:45:36</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242846698-45764bec3b34d.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666242846698-45764bec3b34d.jpg" medium="image" width="300" height="300"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
@@ -945,7 +945,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:49:52</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666242927306-a7da3a1780b8a.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/31573104/31573104-1666242927306-a7da3a1780b8a.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -962,7 +962,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:33:41</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666243115925-244a352c668cc.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666243115925-244a352c668cc.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -979,7 +979,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:43:31</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666243216926-f94ad27ad87f2.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666243216926-f94ad27ad87f2.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
@@ -996,7 +996,7 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:51:22</itunes:duration>
-			<media:content href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666243285680-9808cc7c2578c.jpg"/>
+			<media url="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/31573104/31573104-1666243285680-9808cc7c2578c.jpg" medium="image" width="300" height="300"/>
 			<itunes:season>2022</itunes:season>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
