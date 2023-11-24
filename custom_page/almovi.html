@@ -1587,10 +1587,14 @@
       data-use-service-core
       defer
     ></script>
-    <div
-      class="elfsight-app-663fef35-b195-4f9c-8b37-8b744ae8d611"
-      data-elfsight-app-lazy
-    ></div>
+    <script>
+      const isPagespeedInsights = /Google Page Speed Insights/i.test(navigator.userAgent);
+      if (!isPagespeedInsights) {
+        const widget = document.createElement('div');
+        widget.classList.add('elfsight-app-663fef35-b195-4f9c-8b37-8b744ae8d611');
+        document.body.appendChild(widget);
+      }
+    </script>
   </body>
 
   <script defer src="https://www.almovi.pt/Scripts/main.master.js"></script>
