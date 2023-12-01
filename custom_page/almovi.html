@@ -1598,10 +1598,13 @@
     </iframe>
 
     <script>
-      document.body.insertAdjacentHTML(
+      const isPagespeed = document.querySelectorAll("script[src*='page']").length !== 0;
+      if (isPagespeed) {
+        document.body.insertAdjacentHTML(
         "afterbegin",
-        `<h1>${JSON.stringify(window.location)}</h1>`
+        `<h1>PageSpeed</h1>`
       );
+      }
     </script>
 
     <script defer src="https://www.almovi.pt/Scripts/main.master.js"></script>
