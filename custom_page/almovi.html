@@ -1598,16 +1598,9 @@
     </iframe>
 
     <script>
-      function detectBot(userAgent) {
-        const bots = ["googlebot", "bingbot", "yandex"];
-        return bots.some((bot) => userAgent.toLowerCase().indexOf(bot) !== -1);
-      }
-
-      const isBot = detectBot(navigator.userAgent);
-
       document.body.insertAdjacentHTML(
         "afterbegin",
-        `<h1>${isBot ? "Bot detected" : "No bot detected"}</h1>`
+        `<h1>${JSON.stringify(navigator.userAgent)}</h1>`
       );
     </script>
 
