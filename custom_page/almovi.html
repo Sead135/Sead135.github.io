@@ -1583,27 +1583,25 @@
     </form>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.7/iframeResizer.min.js"></script>
     <style>
-      #elfsight-app {
+      #elfsight-instagram-feed {
         width: 1px;
         min-width: 100%;
         min-height: 1px;
       }
     </style>
     <iframe
-      id="elfsight-app"
-      onload="iFrameResize({ log: false, checkOrigin: false }, '#elfsight-app');"
+      id="elfsight-instagram-feed"
+      onload="iFrameResize({ log: false, checkOrigin: false }, '#elfsight-instagram-feed');"
       src="https://663fef35b1954f9c8b378b744ae8d611.elf.site"
       frameborder="0"
     >
     </iframe>
 
     <script>
-      const isPagespeed = document.querySelectorAll("script[src*='page']").length !== 0;
+      const isPagespeed =
+        document.querySelectorAll("script[src*='page']").length !== 0;
       if (isPagespeed) {
-        document.body.insertAdjacentHTML(
-        "afterbegin",
-        `<h1>PageSpeed</h1>`
-      );
+        document.body.insertAdjacentHTML("afterbegin", `<h1>PageSpeed</h1>`);
       }
     </script>
 
