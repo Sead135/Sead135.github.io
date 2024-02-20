@@ -1,10 +1,7 @@
 {
-  // Some auxiliary parameters that do not affect the operation of the widget.
   "name": "Number Counter",
   "version": "1.0.0",
   "description": "Example of Server Response",
-
-  // Below are the important parameters.
   "startValue": 5,
   "endValue": 100
 }
