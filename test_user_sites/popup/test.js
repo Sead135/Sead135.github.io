@@ -1,5 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
-  // Schedule adjusted as per requirements
+const initial = () => {
   const schedule = [
     { time: '00:00', title: 'Overnights' }, // Midnight to 6am
     { time: '06:00', title: 'Breakfast' }, // 6am Breakfast
@@ -43,4 +42,12 @@ document.addEventListener('DOMContentLoaded', function () {
   const element = document.createElement('div');
   element.textContent = `${currentShow.time} - ${currentShow.title}`;
   container.appendChild(element);
-});
+};
+
+if (document.readyState === 'complete') {
+  initial();
+} else {
+  document.addEventListener('DOMContentLoaded', function () {
+    initial();
+  });
+}
