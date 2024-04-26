@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>Live Stream</title>
+		<link>https://us5freenew.listen2myradio.com/live.mp3</link>
+		<item>
+			<title>Stream</title>
+			<enclosure
+				url="https://us5freenew.listen2myradio.com/live.mp3?typeportmount=s1_16869_stream_617444110"
+				length="Размер файла в байтах" type="audio/mpeg" />
+			<guid>a797fcce-75c4-42cb-a25d-6ddb4170d882</guid>
+			<pubDate>1714130669638</pubDate>
+		</item>
+	</channel>
+</rss>
